@@ -1,6 +1,0 @@
-# Pizza
-
-## Ingredientes 
- - Ovos
- - Leite
- 
